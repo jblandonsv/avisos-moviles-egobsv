@@ -5,7 +5,7 @@ Esta es una recopilación de todos los Avisos de las instituciones gubernamental
 
 La idea es presentarlos en un formato mobile.
 
-Estandarización de Sitios Web de los Gobiernos de El Salvador.
+Estandarización de Sitios Web del Gobierno de El Salvador.
 ==============================================================
 Este proyecto no sería posible sin el esfuerzo de la Dirección de Innovación Tecnológica e Informática de la Presidencia de El Salvador y las instituciones gubernamentales involucradas, quienes han hecho un
 esfuerzo enorme para estandarizar los sitios web del gobierno de El Salvador. Para mayor información pueden revisar:
