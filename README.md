@@ -1,7 +1,7 @@
 avisos-moviles-egobsv
 =====================
 
-Esta es una recopilación de todos los Avisos de las instituciones gubernamentales del gobierno de El Salvador (http://es.wikipedia.org/wiki/El_Salvador). Estos feeds se extraen de sus respectivos RSS.
+Esta es una recopilación de todos los Avisos de las instituciones gubernamentales del gobierno de El Salvador (http://es.wikipedia.org/wiki/El_Salvador). Estos feeds se extraen de sus respectivos RSS de la sección de "Avisos Ciudadanos" de los sitios web.
 
 La idea es presentarlos en un formato mobile.
 
