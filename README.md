@@ -11,3 +11,8 @@ Requisitos:
 * jquery.zrrsfeed.js
 * jquery-1.8.2.min.js
 * jquery.mobile-1.2.0.min.js
+
+Funciones a Añadir:
+===================
+1) Opción de Búsqueda por institución de gobierno.
+2) Opción de Búsqueda por texto
