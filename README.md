@@ -37,3 +37,11 @@ Funciones Pendientes a Añadir:
 ===================
 * Opción de Búsqueda por institución de gobierno (Instituciones Pendientes).
 * Opción de Búsqueda por texto
+
+Sitios Web Gubernamentales:
+===========================
+En este enlace están algunos sitios pertenecientes al órgano ejecutivo:
+
+http://www.presidencia.gob.sv/index.php/ministerios.html
+
+En el proyecto se incluyó un recurso para las noticias de la Asamblea Legislativa, se intentará incorporar al órgano judicial.
