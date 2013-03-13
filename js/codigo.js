@@ -5,6 +5,7 @@ instituciones['ISSS']='http://www.isss.gob.sv/index.php?option=com_content&view=
 instituciones['MAG']='http://www.mag.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
 instituciones['MOP']='http://www.mop.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
 instituciones['PNC']='http://www.pnc.gob.sv/core/index.php/component/content/category/51?format=feed&type=rss';
+instituciones['VMT']='http://www.vmt.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
 
 $(document).on('ready',inicio);
 
