@@ -20,6 +20,7 @@ Instalación:
 
 Browsers Recomendados:
 ======================
+* Dolphin para Android.
 * Chrome.
 * Firefox.
 * IE 10.
