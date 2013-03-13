@@ -12,7 +12,7 @@ esfuerzo enorme para estandarizar los sitios web del gobierno de El Salvador. Pa
 
 http://share.snacktools.com/5579BA7EFB5/fad24e6ba1548afbb8e6d11fabq238623
 
-Requisitos:
+Requisitos(Incluidos):
 ===========
 * jquery.zrssfeed.min.js
 * jquery.zrrsfeed.js
@@ -23,3 +23,15 @@ Funciones a Añadir:
 ===================
 1) Opción de Búsqueda por institución de gobierno.
 2) Opción de Búsqueda por texto
+
+Instalación:
+=============
+* Tener Acceso a Internet
+* Colocar todos los archivos en la carpeta de publicación de algún servidor de aplicaciones como Apache, Tomcat 6 o superior, IIS 6 o superio, etc.
+* Abrir desde un Browser la dirección del archivo index.html
+
+Browsers Recomendados:
+======================
+* Chrome.
+* Firefox.
+* IE 10.
