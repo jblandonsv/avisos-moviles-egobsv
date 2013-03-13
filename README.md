@@ -21,6 +21,7 @@ Instalación:
 Browsers Recomendados:
 ======================
 * Dolphin para Android.
+* Opera Mobile.
 * Chrome.
 * Firefox.
 * IE 10.
