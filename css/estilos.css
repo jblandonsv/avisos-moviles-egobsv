@@ -17,6 +17,16 @@ body
 	width: 100%;
 }
 
+#pie-pagina
+{
+	text-align: center;
+}
+
+#pie-pagina a 
+{
+	margin: 0.2em 1em;
+}
+
 .rssBody
 {
 	width: 100%;
