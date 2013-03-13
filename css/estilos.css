@@ -1,0 +1,37 @@
+body 
+{
+	font-size: 16px;
+}
+
+#feedAvisos
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+#feedSection
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.rssBody
+{
+	width: 100%;
+}
+
+.rssBody ul, .rssRow
+{
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+	width: 100%;
+}
+
+.ui-content
+{
+	margin: 0;
+	padding: 0;
+}
