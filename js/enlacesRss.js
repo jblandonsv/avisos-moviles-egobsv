@@ -15,7 +15,7 @@ instituciones['RREE']='';
 instituciones['SALUD']='http://www.salud.gob.sv/novedades/noticias/noticias-ciudadanosas.feed?type=rss';
 instituciones['SEGURIDAD'] = '';
 instituciones['VMT']='http://www.vmt.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
-intituciones['VVD']='http://www.vivienda.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['VVD']='http://www.vivienda.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
 
 /*AUTONOMAS*/
 instituciones['ANSP']='http://www.ansp.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
