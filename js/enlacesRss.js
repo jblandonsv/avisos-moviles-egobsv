@@ -11,11 +11,11 @@ instituciones['MINED'] = '';
 instituciones['MINTRAB'] = 'http://www.mtps.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
 instituciones['MITUR']='';
 instituciones['MOP']='http://www.mop.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
-instituciones['PNC']='http://www.pnc.gob.sv/core/index.php/component/content/category/51?format=feed&type=rss';
 instituciones['RREE']='';
 instituciones['SALUD']='http://www.salud.gob.sv/novedades/noticias/noticias-ciudadanosas.feed?type=rss';
 instituciones['SEGURIDAD'] = '';
 instituciones['VMT']='http://www.vmt.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+intituciones['VVD']='http://www.vivienda.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
 
 /*AUTONOMAS*/
 instituciones['ANSP']='http://www.ansp.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
@@ -38,3 +38,36 @@ instituciones['FSV']='http://www.fsv.gob.sv/index.php?option=com_content&view=ca
 instituciones['ISSS']='http://www.isss.gob.sv/index.php?option=com_content&view=section&layout=blog&id=4&Itemid=76&format=feed&type=rss';
 instituciones['RNPN']='http://www.rnpn.gob.sv/index.php?option=com_content&view=category&id=1%3Anoticias-ciudadano&Itemid=77&layout=default&format=feed&type=rss';
 
+/*SUPERINTENDENCIAS*/
+instituciones['BCR'] = 'http://www.bcr.gob.sv/esp/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['BFA'] = 'http://www.bfa.gob.sv/index.php?option=com_content&view=section&layout=blog&id=4&Itemid=76&format=feed&type=rss';
+instituciones['BANDESAL'] = '';
+instituciones['SC'] = 'http://www.sc.gob.sv/rss.php';
+instituciones['SIGET'] = 'http://www.siget.gob.sv/index.php/novedades/avisos/25-avisos-ciudadano?format=feed&type=rss';
+instituciones['SSF'] = '';
+
+/*OTRAS INSTITUCIONES*/
+instituciones['CORSAIN']='http://www.corsain.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
+instituciones['CORREOS']='';
+instituciones['DIGESTYC']='';
+instituciones['IN']='http://www.imprentanacional.gob.sv/index.php/novedades/avisos/25-avisos-ciudadano?format=feed&type=rss';
+instituciones['IPNC']='';
+instituciones['LNB']='http://www.lnb.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['PNC']='http://www.pnc.gob.sv/core/index.php/component/content/category/51?format=feed&type=rss';
+instituciones['MIGRACION']='http://www.migracion.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['PROESA']='http://www.proesa.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['FISDL']='http://www.fisdl.gob.sv/novedades/avisos/ciudadano?format=feed&type=rss';
+instituciones['CM']='http://www.ciudadmujer.gob.sv/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=52&Itemid=77&format=feed&type=rss';
+instituciones['CCT']='http://www.conacyt.gob.sv/index.php?option=com_k2&view=itemlist&layout=category&Itemid=77&format=feed&type=rss';
+instituciones['CORSATUR']='http://www.corsatur.gob.sv/novedades/avisos.feed?q=novedades%2Favisos.html&type=rss';
+instituciones['DNM']='http://www.medicamentos.gob.sv/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['FOSALUD']='http://www.fosalud.gob.sv/index.php?option=com_content&view=category&id=62&Itemid=335&format=feed&type=rss';
+instituciones['INDES']='http://indes.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&format=feed&type=rss';
+instituciones['ISDEM']='http://isdem.gob.sv/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=85&Itemid=76&format=feed&type=rss';
+instituciones['INSAFOCOOP']='';
+instituciones['ISDEMU']='http://www.isdemu.gob.sv/index.php?option=com_content&view=category&id=25%3Aavisos-ciudadano&Itemid=76&layout=default&lang=es&format=feed&type=rss';
+instituciones['ISNA']='http://isna.elsalvadormultimedia.info/ISNA/index.php?option=com_content&view=category&id=25&Itemid=76&format=feed&type=rss';
+instituciones['ISRI']='http://isri.elsalvadormultimedia.info/isri2011/index.php?option=com_content&view=category&id=36&Itemid=97&format=feed&type=rss';
+instituciones['ISTA']='';
+instituciones['ISTU']='';
+instituciones['TRANSPARENCIA']='http://www.transparenciaactiva.gob.sv/category/laip/feed/';
