@@ -4,7 +4,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
 
-	<title>Rss Feed JQuery Mobile</title>
+	<title>Avisos Ciudadanos SV</title>
 
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/jquery.zrssfeed.css" />
@@ -28,15 +28,46 @@
 <div id="feedsAvisos" data-role="content">
 	<div id="elementos" data-role="fieldcontain">
 		
-			<select id="instituciones" data-native-menu="false">
+			<select id="instituciones">
 				<option value="seleccionar">-- Seleccione --</option>
 				<option value="ASAMBLEA">Asamblea Legislativa</option>
-				<option value="ANDA">Administración Nacional de Acueductos y Alcantarillados</option>
-				<option value="ISSS">Instituto Salvadoreño del Seguro Social</option>
-				<option value="MAG">Ministerio de Agricultura</option>
-				<option value="MOP">Ministerio de Obras Públicas</option>
-				<option value="PNC">Policia Nacional Civil</option>
-				<option value="VMT">Viceministerio de Transporte</option>
+				<optgroup label = "Ministerios y Viceministerios">
+					<option value="MAG">Ministerio de Agricultura y Ganaderia</option>
+					<option value="MINEC">Ministerio de Economía</option>
+					<option value="MINED">Ministerio de Educación</option>
+					<option value="GOBERNACION">Ministerio de Gobernación</option>
+					<option value="MH">Ministerio de Hacienda</option>
+					<option value="SEGURIDAD">Ministerio de Justicia y Seguridad</option>
+					<option value="DEFENSA">Ministerio de Defensa</option>
+					<option value="MARN">Ministerio de Medio Ambiente</option>
+					<option value="MOP">Ministerio de Obras Públicas</option>
+					<option value="RREE">Ministerio de Relaciones Exteriores</option>
+					<option value="SALUD">Ministerio de Salud</option>
+					<option value="MITUR">Ministerio de Turismo</option>
+					<option value="MINSTRAB">Ministerio de Trabajo y Previsión Social</option>
+					<option value="VMT">Viceministerio de Transporte</option>
+				</optgroup>
+				<optgroup label = "Autónomas">
+					<option value="ANSP">Academia Nacional de Seguridad Pública (ANSP)</option>
+					<option value="ANDA">Administración Nacional de Acueductos y Alcantarillados (ANDA)</option>
+					<option value="CIFCO">Centro Internacional de Ferias y Convenciones (CIFCO)</option>
+					<option value="CENTA">Centro Nacional de Tecnología Agropecuaria (CENTA)</option>
+					<option value="CNR">Centro Nacional de Registros (CNR)</option>
+					<option value="CEL">Comisión Ejecutiva Hidroeléctrica del Río Lempa (CEL)</option>
+					<option value="CEPA">Comisión Ejecutiva Portuaria Autónoma (CEPA)</option>
+					<option value="CONAMYPE">Comisión Nacional de la Micro y Pequeña Empresa (CONAMYPE)</option>
+					<option value="CNE">Consejo Nacional de Energia (CNE)</option>
+					<option value="CONJUVE">Instituto Nacional de la Juventud</option>
+					<option value="CSSP">Consejo Superior de Salud Pública (CSSP)</option>
+					<option value="DEFENSORIA">Defensoría del Consumidor</option>
+					<option value="FOVIAL">Fondo de Conservación Vial (FOVIAL)</option>
+					<option value="FOMILENIO">Fondo del Milenio El Salvador (FOMILENIO)</option>
+					<option value="FONAVIPO">Fondo Nacional de Vivienda Popular (FONAVIPO)</option>
+					<option value="FOSEP">Fondo Salvadoreño para Estudios de Preinversión (FOSEP)</option>
+					<option value="FSV">Fondo Social para la Vivienda (FSV)</option>
+					<option value="ISSS">Instituto Salvadoreño del Seguro Social (ISSS)</option>
+					<option value="RNPN">Registro Nacional de las Personas Naturales (RNPN)</option>
+				</optgroup>
 			</select>
 		
 	</div>
