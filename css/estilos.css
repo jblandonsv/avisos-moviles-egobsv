@@ -2,7 +2,26 @@ body
 {
 	font-size: 16px;
 }
-
+label
+{
+	margin-top: 30px;
+	padding: 15px 0;
+	text-align: right;
+}
+#cantidad_feeds
+{
+	vertical-align: top;
+}
+#elementos_2 .ui-block-a
+{
+	height: 58px;
+	vertical-align: middle;
+	width: 10%;
+}
+#elementos_2 .ui-block-b
+{
+	width: 15%;
+}
 #feedAvisos
 {
 	margin: 0;
@@ -46,10 +65,4 @@ body
 	padding-left: 0;
 	list-style: none;
 	width: 100%;
-}
-
-.ui-content
-{
-	margin: 0;
-	padding: 0;
 }

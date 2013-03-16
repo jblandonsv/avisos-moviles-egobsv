@@ -25,11 +25,11 @@
 	<h1>Avisos Públicos SV</h1>
 </div>
 
-<div id="feedsAvisos" data-role="content">
-	<div id="elementos" data-role="fieldcontain">
-		
+<div id="feedsAvisos" data-role="content" class="ui-content" role="main">
+	<fieldset id="elementos" class="ui-grid-a">
+		<div class="ui-block-a">
 			<select id="instituciones">
-				<option value="seleccionar">-- Seleccione --</option>
+				<option value="seleccionar">-- Instituciones --</option>
 				<option value="ASAMBLEA">Asamblea Legislativa</option>
 				<optgroup label = "Ministerios y Viceministerios">
 					<option value="MAG">Ministerio de Agricultura y Ganaderia</option>
@@ -104,8 +104,25 @@
 					<option value="TRANSPARENCIA">Portal de transparencia del Gobierno(LAIP FEED)</option>
 				</optgroup>
 			</select>
-		
-	</div>
+		</div>
+		<div class="ui-block-b">
+			<!--<select id="sortByDate">
+				<option value="desc">Más Recientes</option>
+				<option value="asc">Menos Recientes</option>
+			</select>-->
+		</div>
+	</fieldset>
+	<fieldset id="elementos_2" class="ui-grid-b">
+		<div class="ui-block-a">
+			<label for="cantidad_feeds"><strong>Cantidad Feeds:</strong></label>
+		</div>
+		<div class="ui-block-b">
+			<input type="number" id="cantidad_feeds" data-inline="true" name="cantidad_feeds" min="1" value="5"/>
+		</div>
+		<div class="ui-block-c">
+			<input type="button" id="buscar_button" data-role="button" data-icon="check" data-inline="true" class="search_button" value="Buscar"
+		</div>
+	</fieldset>
 	<div id="feedSection"></div>
 </div>
 
