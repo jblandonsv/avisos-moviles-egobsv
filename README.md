@@ -51,3 +51,7 @@ En este enlace están algunos sitios pertenecientes al órgano ejecutivo:
 http://www.presidencia.gob.sv/index.php/ministerios.html
 
 En el proyecto se incluyó un recurso para las noticias de la Asamblea Legislativa, se intentará incorporar al órgano judicial.
+
+Versión Android
+================
+https://github.com/jblandonsv/ma-avisos-moviles-gob
