@@ -1,9 +1,3 @@
-Demo Versión Alpha
-===================
-Entrar desde un dispositivo móvil.
-
-http://avisosegobsv.com.hostinghood.com/
-
 avisos-moviles-egobsv
 =====================
 
